@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello! I am William Lietz, and this is my github repo for CSCI 5560 - Database Management Systems at Middle Tennessee State University.
+
+### No visible code can be reused without my permission.
 
 <!--
 **will-lietz/will-lietz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
