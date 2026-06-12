@@ -1,7 +1,13 @@
-## Hello! I am William Lietz, and this is my github repo for CSCI 5560 - Database Management Systems at Middle Tennessee State University.
+## Hello! My name is William Lietz.
 
 ### No visible code can be reused without my permission.
 
+#### I'm currently focused on: Computer Vision, Diagnostic Imaging, Calculus
+#### In-Development: Sports Data Platform (closed-source for now). 
+#### Ask me about ResearchDB, a platform that allows patients or providers to securely and privately enter and view records and results.
+
+#### Interested in collaboration on CV projects involving medical images. 
+#### Reach me through email at wfl2g@mtmail.mtsu.edu.
 <!--
 **will-lietz/will-lietz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
