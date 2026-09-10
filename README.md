@@ -2,9 +2,10 @@
 
 ### No visible code can be reused without my permission.
 
-#### I'm currently focused on: Computer Vision, Diagnostic Imaging, Calculus
-#### In-Development: Sports Data Platform (closed-source for now). 
+#### I'm currently focused on: Computer Vision, Diagnostic Imaging
+#### In-Development: Sports Data Platform (closed-source for now), FeatureFidelity.
 #### Ask me about ResearchDB, a platform that allows patients or providers to securely and privately enter and view records and results.
+#### FeatureFidelity: medical imaging project in-development
 
 #### Interested in collaboration on CV projects involving medical images. 
 #### Reach me through email at wfl2g@mtmail.mtsu.edu.
